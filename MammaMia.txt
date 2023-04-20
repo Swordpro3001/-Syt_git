@@ -15,6 +15,10 @@ Bla CHallo Gusti
 =======
 >>>>>>> 452f08259b4ccfb12f241a080aef9a541a5a84e2
 Mein Name ist Gustav :)
+<<<<<<< HEAD
 >>>>>>> a974c338179babf082b2dbdb5f796fef33d2291c
 
 HOOOEEBERT
+=======
+Gib mir die Salami 🌭
+>>>>>>> 8461b23411113846082a4170602bfa3641f5a2b5
