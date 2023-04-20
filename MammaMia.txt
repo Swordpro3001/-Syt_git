@@ -16,4 +16,8 @@ ochh
 =======
 >>>>>>> 452f08259b4ccfb12f241a080aef9a541a5a84e2
 Mein Name ist Gustav :)
+<<<<<<< HEAD
 >>>>>>> fd6c2d400669e6b3008d7c9e6f2653ce1669a2ad
+=======
+Gib mir die Salami 🌭
+>>>>>>> 8461b23411113846082a4170602bfa3641f5a2b5
