@@ -2,10 +2,18 @@ Bla Bla Bla
 Mamma Mia here we go again 
 Mai Mai  
 How can I resist u <3
+<<<<<<< HEAD
+Mich ist dood :D
+=======
 
 666 
 Die Sonne lacht 
 Auf der Heide
+<<<<<<< HEAD
 Nein
 Doch 
 ochh
+=======
+>>>>>>> 452f08259b4ccfb12f241a080aef9a541a5a84e2
+Mein Name ist Gustav :)
+>>>>>>> fd6c2d400669e6b3008d7c9e6f2653ce1669a2ad
